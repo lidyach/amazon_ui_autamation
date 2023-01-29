@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_skip</name>
+   <tag></tag>
+   <elementGuidId>ff6a0a76-67f9-45ed-87b4-4c4d450cc515</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;ap-account-fixup-phone-skip-link&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;ap-account-fixup-phone-skip-link&quot;]</value>
+      <webElementGuid>e64dfedb-f748-4b36-a180-e990c79116dc</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

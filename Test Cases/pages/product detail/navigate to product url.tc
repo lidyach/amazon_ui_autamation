@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>navigate to product url</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>16ba6260-2014-4f0f-9e99-cfd25fbe7ec1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>50aca584-d72d-4731-aea2-d627cddd7ea2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>50aca584-d72d-4731-aea2-d627cddd7ea2</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

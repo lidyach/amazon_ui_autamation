@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>checkout product amazon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd69dc1f-5e1d-46e1-a601-81d7e127fa72</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ebf8c179-fffc-4d9e-904f-229bf3b2eb6a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('data product').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>ebf8c179-fffc-4d9e-904f-229bf3b2eb6a</id>
+      <masked>false</masked>
+      <name>url_product</name>
+   </variable>
+</TestCaseEntity>

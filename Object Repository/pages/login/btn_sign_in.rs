@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_sign_in</name>
+   <tag></tag>
+   <elementGuidId>4811a8c7-5630-47c5-ac07-f6f5a6065b2e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;auth-signin-button&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;auth-signin-button&quot;]</value>
+      <webElementGuid>3a7bd15d-a8ac-47bf-beca-46b9ab59e917</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

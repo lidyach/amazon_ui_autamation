@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_view_cart</name>
+   <tag></tag>
+   <elementGuidId>25afd2eb-c590-4f27-9f55-d48bc1f0ed7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;attach-sidesheet-view-cart-button&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;attach-sidesheet-view-cart-button&quot;]</value>
+      <webElementGuid>90982d4e-61e2-4498-974f-d4c11f843329</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

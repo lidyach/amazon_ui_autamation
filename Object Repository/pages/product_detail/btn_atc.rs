@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_atc</name>
+   <tag></tag>
+   <elementGuidId>cff622b8-2f85-4ed7-b6d4-1e315c5172c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;add-to-cart-button&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;add-to-cart-button&quot;]</value>
+      <webElementGuid>37facd5e-70ca-4536-9b2b-801d03d8d9fd</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
